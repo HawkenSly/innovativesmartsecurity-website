@@ -12002,12 +12002,12 @@ textarea.form-control-lg {
 
 .hero {
   height: 90vh;
-  min-height: 600px;
-  background-image: url("herotest.71008623.png");
+  min-height: 70vh;
+  min-width: 310px;
+  background-image: url("m2.9937c572.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
-  min-width:500px;
 }
 
 .btnborder {
@@ -12133,5 +12133,36 @@ td > i {
   background-color: #29385d;
 }
 
+.logosizing {
+  width: 75%;
+  float: left;
+}
+
+@media only screen and (max-width: 575px) {
+  .logosizing {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .navbar .navbar-brand {
+    max-width: 74%;
+  }
+
+  .navbar .navbar-toggler {
+    max-width: 20%;
+  }
+}
+
+.xcontainer {
+  max-width: 1000px;
+}
+
+.cstfooter {
+  text-align: center;
+  background-color: #282c34;
+  margin-top: 50px;
+  padding: 2.5rem 0;
+}
 
 /*# sourceMappingURL=index.4717fcfd.css.map */
