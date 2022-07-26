@@ -12090,7 +12090,7 @@ td > i {
 
 .flip-card-front {
   color: #000;
-  background-image: url("herotest.8ee18192.png");
+  background-image: url("hero.8ee18192.png");
   background-size: 300px 500px;
 }
 
@@ -12107,13 +12107,13 @@ td > i {
 }
 
 .flip-sizing-method {
-  width: 300px;
+  width: 350px;
   height: 500px;
 }
 
 @media (max-width: 1178px) {
   .flip-sizing-method {
-    width: 250px;
+    width: 270px;
   }
 }
 
@@ -12126,6 +12126,10 @@ td > i {
 
 .fliptextpad {
   padding: 130px 0;
+}
+
+.sillycolor {
+  background-color: #29385d;
 }
 
 /*# sourceMappingURL=index.4717fcfd.css.map */
