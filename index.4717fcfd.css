@@ -12007,6 +12007,7 @@ textarea.form-control-lg {
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
+  min-width:500px;
 }
 
 .btnborder {
@@ -12131,5 +12132,6 @@ td > i {
 .sillycolor {
   background-color: #29385d;
 }
+
 
 /*# sourceMappingURL=index.4717fcfd.css.map */
